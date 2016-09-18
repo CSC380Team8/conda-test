@@ -1,0 +1,20 @@
+package:
+  name: libtest
+  version: "0.1"
+
+source:
+  git_rev: 
+  git_url: https://github.com/CSC380Team8/conda-test.git
+
+requirements:
+  build:
+    - python
+    - setuptools
+
+  run:
+    - python
+
+about:
+  home: https://github.com/CSC380Team8/conda-test
+  license: MIT
+  license_file: LICENSE
