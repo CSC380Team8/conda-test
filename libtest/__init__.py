@@ -1,0 +1,5 @@
+__author__ = 'Christopher Wells'
+__copyright__ = 'Copyright 2016 Randall Wells'
+__license__ = 'MIT'
+__title__ = 'libtest'
+__version__ = '0.1'
